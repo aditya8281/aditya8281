@@ -1,18 +1,29 @@
 # Hey, I’m Aditya 👋
 
-AI, robots, and systems that (try to) behave themselves.  
-Turning caffeine into code and ideas into working systems.
+Exploring how machines see, learn, and act.  
+Building and researching intelligent perception systems.
 
 ---
 
 ## 🧠 About Me
 
-- IIT Jodhpur student (Electrical Engineering)
-- AI/ML + systems + robotics enthusiast
-- I like building real-world systems, not just tutorials
-- I enjoy breaking things, then rebuilding them better
+- IIT Jodhpur undergraduate student (Electrical Engineering, 3rd year)
+- Undergraduate Researcher at IITJ
+- Currently working in Computer Vision research
+- Actively exploring Deep Learning (CNNs, Transformers, RL, etc.)
+- Interested in AI perception, robotics, and edge intelligence systems
 
-> I spend most of my time training models, debugging systems, and wondering why everything works on the second try.
+I enjoy building systems that can see and understand the world.
+
+---
+
+## 🔬 Research Focus
+
+- Computer Vision and Perception Systems
+- Deep Learning for visual understanding
+- Edge AI and embedded inference systems
+- Autonomous robotics and intelligent agents
+- Exploring modern architectures in deep learning
 
 ---
 
@@ -21,11 +32,14 @@ Turning caffeine into code and ideas into working systems.
 ### Languages
 C • C++ • Python • JavaScript • TypeScript
 
-### AI / ML Stuff
-PyTorch • TensorFlow • Scikit-learn • OpenCV • NumPy • Pandas
+### AI / ML
+PyTorch • TensorFlow • Scikit-learn • OpenCV • NumPy
 
 ### Deep Learning
 CNNs • RNNs • Transformers • Reinforcement Learning
+
+### Computer Vision
+Object Detection • Image Processing • Feature Extraction • Neural Vision Models
 
 ### Systems & Hardware
 Linux • Networking • Embedded Systems • Arduino • Jetson
@@ -40,37 +54,37 @@ Blender • Unity • Unreal Engine • Photoshop • Illustrator
 
 ## 🚀 Projects
 
-- 🚦 **RL-based Traffic Signal System**  
-  Trying to fix traffic, one simulation at a time.
-
 - 🚁 **Drone with Onboard Vision**  
-  AI that sees before I do.
+  Real-time computer vision deployed on embedded edge hardware.
 
 - 📷 **Edge AI Face Recognition**  
-  Tiny device, big brain.
+  On-device inference under constrained compute environments.
+
+- 🚦 **RL-based Traffic Signal System**  
+Adaptive control using reinforcement learning for dynamic traffic environments.
 
 - 🤖 **Maze-Solving Robot**  
-  Got lost, learned to find its way.
+  Autonomous navigation using sensor-based control systems.
 
 - 🔗 **Secure P2P File Transfer**  
-  No servers, just chaos + encryption.
+  Encrypted decentralized file transmission system.
 
 ---
 
-## 🔧 Currently Building / Learning
+## 📚 Currently Learning
 
-- teaching machines to think (slowly)
-- breaking systems to understand them
-- exploring reinforcement learning and autonomous systems
-- trying to make hardware and AI behave nicely together
+- Advanced deep learning techniques
+- Transformer-based vision models
+- Real-time inference optimization
+- Reinforcement learning systems
 
 ---
 
 ## 🧩 Personality
 
-- I like building things that sometimes work.
-- If it compiles, I ship it.
-- Debugging is my cardio.
+- I enjoy building systems that can see, learn, and adapt.
+- Research + building is my favorite combination.
+- I like turning ideas into working intelligent systems.
 
 ---
 
@@ -83,6 +97,6 @@ Blender • Unity • Unreal Engine • Photoshop • Illustrator
 ---
 
 <!--
-Thanks for stopping by.
-If you're reading this, you're probably as deep in GitHub as I am in bugs.
+If you're reading this, you're probably deep into GitHub or deep into debugging.
+Either way — respect.
 -->
