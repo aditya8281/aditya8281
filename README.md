@@ -61,10 +61,9 @@ Currently researching **Hybrid CNN–Attention Architectures** for robust image 
 ---
 
 ## 📊 GitHub Activity
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya8281&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+<!-- <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya8281&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</p> -->
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya8281&theme=tokyo-night&hide_border=true"/>
