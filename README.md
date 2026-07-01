@@ -1,102 +1,97 @@
-# Hey, I’m Aditya 👋
+<div align="center">
 
-Exploring how machines see, learn, and act.  
-Building and researching intelligent perception systems.
+# Hi, I'm Aditya Rathod 👋
+
+### Backend Engineer • AI Systems Engineer • Computer Vision Researcher
+
+Building intelligent systems that **perceive, reason, and scale**.
+
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Building+CORTEX;Building+ASTERA;Computer+Vision+Researcher;Backend+Engineer;Rust+%7C+Python+%7C+FastAPI+%7C+PyTorch" />
+</p>
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-- IIT Jodhpur undergraduate student (Electrical Engineering, 3rd year)
-- Undergraduate Researcher at IITJ
-- Currently working in Computer Vision research
-- Actively exploring Deep Learning (CNNs, Transformers, RL, etc.)
-- Interested in AI perception, robotics, and edge intelligence systems
-
-I enjoy building systems that can see and understand the world.
+- 🎓 B.Tech Electrical Engineering @ **IIT Jodhpur**
+- 🔬 Undergraduate Researcher in **Computer Vision**
+- 🚀 Building **AI Infrastructure**, **Backend Systems**, and **Developer Tools**
+- 🦀 Interested in **Systems Programming**, **Distributed Systems**, and **Machine Learning**
+- 🌱 Always exploring new technologies and solving challenging engineering problems.
 
 ---
 
-## 🔬 Research Focus
+## ⚡ Tech Stack
 
-- Computer Vision and Perception Systems
-- Deep Learning for visual understanding
-- Edge AI and embedded inference systems
-- Autonomous robotics and intelligent agents
-- Exploring modern architectures in deep learning
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,rust,cpp,c,ts,js,react,nextjs,fastapi,postgres,redis,docker,linux,git,pytorch,tensorflow,opencv,sqlite&perline=9" />
+</p>
 
 ---
 
-## ⚙️ Tech Stack
+## 🚀 Featured Work
 
-### Languages
-C • C++ • Python • JavaScript • TypeScript
+### 🧠 CORTEX
+> Local-first AI infrastructure platform for developer intelligence.
 
-### AI / ML
-PyTorch • TensorFlow • Scikit-learn • OpenCV • NumPy
-
-### Deep Learning
-CNNs • RNNs • Transformers • Reinforcement Learning
-
-### Computer Vision
-Object Detection • Image Processing • Feature Extraction • Neural Vision Models
-
-### Systems & Hardware
-Linux • Networking • Embedded Systems • Arduino • Jetson
-
-### Tools
-Git • Docker • Jupyter • Figma
-
-### Creative Side
-Blender • Unity • Unreal Engine • Photoshop • Illustrator
+- Multi-agent execution framework
+- Persistent memory & hybrid retrieval
+- FastAPI • PostgreSQL • Redis • Qdrant
+- Privacy-first architecture
 
 ---
 
-## 🚀 Projects
+### ⚡ ASTERA
+> Production-grade static analysis & code intelligence engine built in Rust.
 
-- 🚁 **Drone with Onboard Vision**  
-  Real-time computer vision deployed on embedded edge hardware.
-
-- 📷 **Edge AI Face Recognition**  
-  On-device inference under constrained compute environments.
-
-- 🚦 **RL-based Traffic Signal System**  
-Adaptive control using reinforcement learning for dynamic traffic environments.
-
-- 🤖 **Maze-Solving Robot**  
-  Autonomous navigation using sensor-based control systems.
-
-- 🔗 **Secure P2P File Transfer**  
-  Encrypted decentralized file transmission system.
+- Tree-sitter parsing
+- Code Property Graphs
+- Semantic Search
+- Multi-language analysis
 
 ---
 
-## 📚 Currently Learning
+### 🔬 Research
 
-- Advanced deep learning techniques
-- Transformer-based vision models
-- Real-time inference optimization
-- Reinforcement learning systems
+Currently researching **Hybrid CNN–Attention Architectures** for robust image classification at **IIT Jodhpur**.
 
 ---
 
-## 🧩 Personality
+## 📊 GitHub Activity
 
-- I enjoy building systems that can see, learn, and adapt.
-- Research + building is my favorite combination.
-- I like turning ideas into working intelligent systems.
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya8281&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
----
-
-## 🌐 Socials
-
-- GitHub: https://github.com/aditya8281  
-- LinkedIn: https://www.linkedin.com/in/adityarathod2912/
-- Email: aditya.rathod2912@gmail.com
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya8281&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-<!--
-If you're reading this, you're probably deep into GitHub or deep into debugging.
-Either way — respect.
--->
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://aditya8281.github.io">Portfolio</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/aditya8281">GitHub</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://linkedin.com/in/adityarathod2912">LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:aditya.rathod2912@gmail.com">Email</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<i>"Building intelligent systems that perceive, reason, and scale."</i>
+
+</div>
